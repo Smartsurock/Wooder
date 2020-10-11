@@ -3841,6 +3841,7 @@ body.lock {
   margin: 0px 0px 30px 0px;
   max-height: 150px;
   overflow: auto;
+  padding: 0 5px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -4877,6 +4878,10 @@ body.lock {
     -webkit-transition: 0.5s 0.3s;
     -o-transition: 0.5s 0.3s;
     transition: 0.5s 0.3s;
+  }
+
+  .menu__link {
+    display: inline-block;
   }
 
   .menu__link {
