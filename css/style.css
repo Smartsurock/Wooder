@@ -4892,6 +4892,10 @@ body.lock {
     font-size: 36px;
   }
 
+  .quality__subtitle {
+    margin: 0px auto;
+  }
+
   .design__body {
     padding: 20px;
   }
